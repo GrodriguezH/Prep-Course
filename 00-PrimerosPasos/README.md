@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Muchas gracias por la oportunidad, las explicaciones son muy claras, me gusto mucho el paso a paso del video.
       </a>
     </td>
   </tr>
